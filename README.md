@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RupeshKankrej.
-- 👀 I’m interested in Java as well as Android Development.
+- 👀 I’m interested in Java as well as Flutter Development.
 - 🌱 I’m currently learning Flutter.
 - 📫 How to reach me rupeshrk1206@gmail.com
 
